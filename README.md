@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qwert5972)](https://solved.ac/qwert5972)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwert5972)](https://solved.ac/qwert5972)
 <!--
 **bagsangbin/bagsangbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
